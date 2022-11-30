@@ -1,0 +1,3 @@
+displayName = Shimmer Bank Transmutations
+author = Sheepish Shepherd
+version = 0.1
